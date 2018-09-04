@@ -1,2 +1,2 @@
 # POSist
-for POSist campus drive
+for POSist campus drive (python code)
